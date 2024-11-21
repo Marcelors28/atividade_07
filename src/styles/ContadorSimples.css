@@ -1,0 +1,22 @@
+.increment-button, .decrement-button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.increment-button {
+  background-color: #4CAF50; /* Verde para incrementar */
+  color: white;
+}
+
+.decrement-button {
+  background-color: #f44336; /* Vermelho para decrementar */
+  color: white;
+}
+
+.increment-button:hover, .decrement-button:hover {
+  opacity: 0.8; /* Efeito hover */
+}
