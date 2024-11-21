@@ -263,7 +263,7 @@ npm install
 npm run dev
 ```
 
-4. Execute o projeto em: http://localhost:5173/
+4. Execute o projeto em:
 
 ```bash
 http://localhost:5173/
