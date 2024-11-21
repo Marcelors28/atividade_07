@@ -7,6 +7,50 @@ Este repositório faz parte das atividades do curso Dev Full Stack da MaisPraTi,
 A estrutura do projeto é desenvolvida em uma estrutura de pastas clara. Incluindo uma pasta components para armazenar os componentes criados em cada atividade, facilitando a navegação e a leitura do código.
 Foi criado uma página principal (App.js ou index.js) como menu para acessar cada atividade individualmente. Dessa forma, cada atividade pode ser testada separadamente sem interferir nas demais.
 
+## Estrutura de Pastas
+
+```plaintext
+atividade07/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── ComponentesNavegaveis.jsx
+│   │   ├── ContadorSimples.jsx
+│   │   ├── FiltroDeLista.jsx
+│   │   ├── FormularioDeRegistro.jsx
+│   │   ├── FormularioDeRegistroMensagem.jsx
+│   │   ├── GaleriaDeImagens.jsx
+│   │   ├── RequisicaoDeDadosSimples.jsx
+│   │   ├── Temporizador.jsx
+│   │   ├── Timer.jsx
+│   │   ├── ToDoList.jsx
+│   │   └── TrocaCorDeFundo.js
+│   ├── styles/
+│   │   ├── App.css
+│   │   ├── ComponentesNavegaveis.css
+│   │   ├── ContadorSimples.css
+│   │   ├── FiltroDeLista.css
+│   │   ├── FormularioDeRegistro.css
+│   │   ├── GaleriaDeImagens.css
+│   │   ├── GaleriaDeImagensGallery.css
+│   │   ├── index.css
+│   │   ├── RequisicaoDeDadosSimples.css
+│   │   ├── Temporizador.css
+│   │   ├── Timer.css
+│   │   ├── ToDoList.css
+│   │   └── TrocaCorDeFundo.css
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── LICENSE.txt
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
+```
+
 ## Atividades desenvolvidas
 
   **1 - Contador Simples**: Componente de contador que exibe um número na tela e possui dois botões: “Incrementar” e “Decrementar”. Utilizando o hook useState para manter o valor do contador.
