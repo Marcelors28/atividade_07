@@ -1,13 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
 # Atividade 7 - Praticando conceitos essenciais do ReactJS 
 
 Este repositório faz parte das atividades do curso Dev Full Stack da MaisPraTi, neste projeto é possível colocar em prática as estruturas abordadas no módulo 04 do curso. 
