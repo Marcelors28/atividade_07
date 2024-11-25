@@ -5,7 +5,7 @@ Este repositório faz parte das atividades do curso Dev Full Stack da MaisPraTi,
 ## Estrutura do Projeto
 
 A estrutura do projeto é desenvolvida em uma estrutura de pastas clara. Incluindo uma pasta components para armazenar os componentes criados em cada atividade, facilitando a navegação e a leitura do código.
-Foi criado uma página principal (App.js ou index.js) como menu para acessar cada atividade individualmente. Dessa forma, cada atividade pode ser testada separadamente sem interferir nas demais.
+Foi criado uma página principal como menu para acessar cada atividade individualmente. Dessa forma, cada atividade pode ser testada separadamente sem interferir nas demais.
 
 ## Estrutura de Pastas
 
